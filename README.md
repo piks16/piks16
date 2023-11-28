@@ -11,8 +11,8 @@
 <a href="mailto:fikrimungo123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
-<a href="https://leetcode.com/aqchandra15/">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+<a href="https://whatsapp.com/085263879774/">
+  <img src="https://img.shields.io/badge/whatsapp-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
 </a>
 </div>
   
