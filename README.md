@@ -6,7 +6,7 @@
 <div id="badges">
 </a>
 <a href="https://www.instagram.com/hsnlfikri16/">
-  <img src="https://img.shields.io/badge/Instagram-rainbow?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
 </a>
 <a href="mailto:fikrimungo123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
