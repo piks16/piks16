@@ -19,7 +19,8 @@
 <hr>
  
 <pre> 
-<h3>💻 Saya adalah seorang mahasiswa 
+<h3>
+💻 Saya adalah seorang mahasiswa 
 📚 Saya tengah menempuh pendidikan di Universitas Negeri Padang
 📝 Saya tertarik kepada hacking dan game
 🔭 Sedang mempelajari bahasa C
