@@ -11,7 +11,7 @@
 <a href="mailto:fikrimungo123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
-<a href="https://youtube.com/hasanul fikri/">
+<a href="https://youtube.com/@hasanulfikri1609/">
   <img src="https://img.shields.io/badge/youtube-grey?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
 </a>
 </div>
