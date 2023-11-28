@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
 </a>
 <a href="mailto:fikrimungo123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
-<a href="https://whatsapp.com/085263879774/">
-  <img src="https://img.shields.io/badge/whatsapp-white?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Youtube Badge"/>
+<a href="https://whatsapp.com/+6285263879774/">
+  <img src="https://img.shields.io/badge/whatsapp-red?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Youtube Badge"/>
 </a>
 </div>
   
