@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
 <a href="https://whatsapp.com/085263879774/">
-  <img src="https://img.shields.io/badge/whatsapp-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/whatsapp-white?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Youtube Badge"/>
 </a>
 </div>
   
