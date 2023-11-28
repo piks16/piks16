@@ -6,13 +6,13 @@
 <div id="badges">
 </a>
 <a href="https://www.instagram.com/hsnlfikri16/">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-rainbow?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
 </a>
 <a href="mailto:fikrimungo123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
-<a href="https://whatsapp.com/+6285263879774/">
-  <img src="https://img.shields.io/badge/whatsapp-red?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Youtube Badge"/>
+<a href="https://youtube.com/hasanul fikri/">
+  <img src="https://img.shields.io/badge/youtube-grey?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
 </a>
 </div>
   
