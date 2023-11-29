@@ -14,7 +14,7 @@
 <a href="https://youtube.com/@hasanulfikri1609/">
   <img src="https://img.shields.io/badge/youtube-grey?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
 </a>
-<a href="https://discordapp.com/users/pikipiks_11">
+<a href="https://discordapp.com/users/1151389425104859226">
    <img src="https://img.shields.io/badge/discord-grey?style=for-the-badge&logo=discord&logoColor=red" alt="Youtube Badge"/>
 </div>
   
