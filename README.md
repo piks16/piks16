@@ -14,7 +14,7 @@
 <a href="https://youtube.com/@hasanulfikri1609/">
   <img src="https://img.shields.io/badge/youtube-grey?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
 </a>
-<a href="https://facebook.com/@hasanul fikri/">
+<a href="https://web.facebook.com/photo/?fbid=291062082341805&set=a.291062109008469&__tn__=%3C">
    <img src="https://img.shields.io/badge/facebook-grey?style=for-the-badge&logo=facebook&logoColor=blue" alt="Youtube Badge"/>
 </div>
   
