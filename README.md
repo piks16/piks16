@@ -1,36 +1,26 @@
-<div align="center">
-<picture><img src="https://github.com/piks16/piks16/blob/e01a46568f16998461889a2cf4a32fe33418989b/penguin-hallo.gif" width = 350px align="center"></picture> 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=10&color=F70C0C&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Perkenalkan+Nama+Saya;Hasanul+Fikri" alt="Typing SVG" /></a>
-<p>
-<div id="badges">
-</a>
-<a href="https://www.instagram.com/hsnlfikri16/">
-  <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=orange" alt="Youtube Badge"/>
-</a>
-<a href="mailto:fikrimungo123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
-</a>
-<a href="https://youtube.com/@hasanulfikri1609/">
-  <img src="https://img.shields.io/badge/youtube-grey?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
-</a>
-<a href="https://discordapp.com/users/1151389425104859226">
-   <img src="https://img.shields.io/badge/discord-grey?style=for-the-badge&logo=discord&logoColor=red" alt="Youtube Badge"/>
-</div>
-  
-<hr>
- 
-<pre> 
-<h3>
-💻 Saya adalah seorang mahasiswa 
-📚 Saya tengah menempuh pendidikan di Universitas Negeri Padang
-📝 Saya tertarik kepada hacking dan game
-🔭 Sedang mempelajari bahasa C
-🌟 Bahasa Utama : C
-🚩 Tertarik ingin menjadi programer handal</hr>
-</pre>
-<hr>
- </div>
-<h1 align="center">salam kenal!!!</h1>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+# 💫 About Me:
+💻 Saya adalah seorang mahasiswa <br>📚 Saya tengah menempuh pendidikan di Universitas Negeri Padang<br>📝 Saya tertarik kepada hacking dan game<br>🔭 Sedang mempelajari bahasa C<br>🌟 Bahasa Utama : C<br>🚩 Tertarik ingin menjadi programer handal</hr>
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1151389425104859226) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsnlfikri16) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pikipiks16) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCebs8Zvj3SPuJWDDl3qnvfQ) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=piks16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=piks16&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piks16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=piks16&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
