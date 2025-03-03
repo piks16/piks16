@@ -2,7 +2,7 @@
  <img src="https://github.com/piks16/piks16/blob/main/mikuu.gif" align="right" width="320">
  
 # 💫 About Me:
-💻 Saya adalah seorang mahasiswa <br>📚 Saya tengah menempuh pendidikan di Universitas Negeri Padang<br>📝 Saya tertarik kepada hacking dan game<br>🔭 Sedang mempelajari bahasa C<br>🌟 Bahasa Utama : C<br>🚩 Tertarik ingin menjadi programer handal</hr>
+💻 Saya adalah seorang mahasiswa <br>📚 Saya tengah menempuh pendidikan di Universitas Negeri Padang<br>📝 Saya tertarik kepada hacking dan game<br>🔭 Sedang mempelajari bahasa java dan python<br>🌟 Bahasa Utama : C, java, python <br>🚩 Tertarik ingin menjadi programer handal</hr>
 
 
 ## 🌐 Socials:
